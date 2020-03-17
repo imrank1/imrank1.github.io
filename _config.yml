@@ -11,11 +11,11 @@ description: Musings of krazyimran
 github_username: imrank1
 
 # Email and twitter are optional:
-email:imrank1@gmail.com
-twitter_username:krazyimran
+email: imrank1@gmail.com
+twitter_username: krazyimran
 
 # Set this to true to get LaTeX math equation support
-use_math:true
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
